@@ -7,13 +7,13 @@ const Contact = () => {
     {
       icon: "Phone",
       title: "Телефон",
-      value: "8 (977) 477-26-29",
+      value: "8 (917) 758-82-98",
       description: "Звоните круглосуточно",
     },
     {
       icon: "MessageCircle",
       title: "WhatsApp",
-      value: "8 (977) 477-26-29",
+      value: "8 (917) 758-82-98",
       description: "Быстрые ответы в мессенджере",
     },
     {
