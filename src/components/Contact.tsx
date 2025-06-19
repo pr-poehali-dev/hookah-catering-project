@@ -19,7 +19,7 @@ const Contact = () => {
     {
       icon: "Mail",
       title: "Email",
-      value: "info@hookah-catering.ru",
+      value: "kamatut01@icloud.com",
       description: "Подробные заявки на почту",
     },
     {
